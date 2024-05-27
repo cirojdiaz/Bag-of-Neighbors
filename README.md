@@ -11,6 +11,3 @@ All these graphics were generated with a version of this code in Matlab because 
 
 ### Main Interface
 ![Bag of Neighborhoods](images/BNN_sine.jpg)
-![Random Forest](images/RF_sine.jpg)
-![XGBoost](images/XGB_sine.jpg)
-![Artificial Neural Network](images/ANN_sine.jpg)
